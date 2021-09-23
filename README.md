@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/LouFagan/Article-Preview-Component)
-- Live Site URL: [Add live site URL here](https://loufagan.github.io/Article-Preview-Component/)
+- Solution URL: [https://github.com/LouFagan/Article-Preview-Component]
+- Live Site URL: [https://loufagan.github.io/Article-Preview-Component/]
 
 ### Built with
 
